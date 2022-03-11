@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no-title-post
 title: ""
 ---
 # I'm a **computer science** student at Purdue University.  

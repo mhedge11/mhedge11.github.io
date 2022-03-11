@@ -7,8 +7,8 @@ title: ""
 ***
 
 # EDUCATION
-Bachelor of Science, Computer Science, Software Engineering Track	| **Expected Graduation: December 2022**  
-Purdue University, West Lafayette, Indiana | `GPA: 3.76`  
+| Bachelor of Science, Computer Science, Software Engineering Track	| **Expected Graduation: December 2022** |  
+| Purdue University, West Lafayette, Indiana | `GPA: 3.76`|  
 Coursework: Data structures and Algorithms, Systems Programming, Operating Systems, Databases, Information Systems, Web Information Search and Management, Software Engineering, Software Testing
 
 

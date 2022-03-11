@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-I'm a computer science student at Purdue University.
+I'm a computer science student at Purdue University. Expected Graduation: Fall 2022
 
 PROJECTS:
 Deadlinr - (Class Project - Team)	Spring 2022

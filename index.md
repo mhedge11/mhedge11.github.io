@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "About Me"
 ---
 # I'm a **computer science** student at Purdue University.  

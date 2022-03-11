@@ -2,11 +2,13 @@
 layout: page
 title: ""
 ---
-I'm a computer science student at Purdue University.  
+# I'm a **computer science** student at Purdue University.  
+
+***
 
 # EDUCATION
-Bachelor of Science, Computer Science, Software Engineering Track	 <br /><br />         Expected Graduation: December 2022  
-Purdue University, West Lafayette, Indiana 				      &nbsp;&nbsp;                    GPA: 3.76  
+Bachelor of Science, Computer Science, Software Engineering Track	 <br /> Expected Graduation: December 2022  
+Purdue University, West Lafayette, Indiana <br />                   GPA: 3.76  
 Coursework: Data structures and Algorithms, Systems Programming, Operating Systems, Databases, Information Systems, Web Information Search and Management, Software Engineering, Software Testing
 
 

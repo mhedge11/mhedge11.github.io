@@ -42,9 +42,7 @@ Technologies Used: C/C++
 have 2-3 other project that would be good to put for this course
 
 ### Web Development Course - (Class Projects - Individual) Fall 2021
-(3-4 total - need to look up and put onto this page)
-Technologies Used: ReactJS, etc.
 
 ### Operating Systems - (Class Projects - Individual) Fall 2020
-4-6 projects or possible put as 1 big project with parts broken out
+
 

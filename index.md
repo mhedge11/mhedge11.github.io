@@ -3,7 +3,18 @@ layout: page
 title: ""
 ---
 I'm a computer science student at Purdue University.  
-Expected Graduation: Fall 2022
+
+# EDUCATION
+Bachelor of Science, Computer Science, Software Engineering Track	          Expected Graduation: December 2022
+Purdue University, West Lafayette, Indiana 				                          GPA: 3.76
+Coursework: Data structures and Algorithms, Systems Programming, Operating Systems, Databases, Information Systems, Web Information Search and Management, Software Engineering, Software Testing
+
+
+# TECHNICAL SKILLS:
+Java , C, Python, JavaScript, ReactJS, React Native, Linux, Cypress, HTML, CSS, SQL, MongoDB, Git, GitHub, Azure, Azure DevOps, Agile Methodology
+
+# Certifications
+Microsoft: Azure Fundamentals (AZ-900), Azure Data Fundamentals (DP-900), Azure AI Fundamentals (AI-900)
 
 # PROJECTS:
 

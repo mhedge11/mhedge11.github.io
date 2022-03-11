@@ -1,6 +1,6 @@
 ---
-layout: no-title-post
-title: ""
+layout: default
+title: "About Me"
 ---
 # I'm a **computer science** student at Purdue University.  
 

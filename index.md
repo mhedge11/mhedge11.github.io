@@ -2,9 +2,11 @@
 layout: page
 title: ""
 ---
-I'm a computer science student at Purdue University. Expected Graduation: Fall 2022
+I'm a computer science student at Purdue University.
+Expected Graduation: Fall 2022
 
 # PROJECTS:
+
 ## Deadlinr - (Class Project - Team)	Spring 2022
 
 Mobile-based application. Build around calendars and deadlines. Allows students to create calendars for courses or groups and then add their own deadlines to the calendar. Provides a solution where end users can work together to set deadlines through group voting on deadline. UI is based around calendars so users can easily learn how much time they have to complete their goals. Displays statistics for difficulty, completion time, and average completion time for users to better grasp how much time to devote to a certain deadline.

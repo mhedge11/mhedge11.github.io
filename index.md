@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "Blog"
+title: ""
 ---
 I'm a computer science student at Purdue University.

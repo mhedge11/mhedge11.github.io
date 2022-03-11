@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-I'm a computer science student at Purdue University.
+I'm a computer science student at Purdue University.  
 Expected Graduation: Fall 2022
 
 # PROJECTS:
@@ -27,8 +27,6 @@ Shell Project:
 Built a shell interpreter which is based on the bash and csh shells. Shell has the ability to parse and execute commands. Implemented common tools such as ctrl-c to stop a command and zombie elimination. Created subshells allowing the user to implement a complex command using shell output as the input to another command. Implemented additional tools including wildcarding and command line editor mode
 Technologies Used: C/C++
 have 2-3 other project that would be good to put for this course
-
-
 
 ## Web Development Course - (Class Projects - Individual) Fall 2021
 (3-4 total - need to look up and put onto this page)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: ""
 ---
 # I'm a **computer science** student at Purdue University.  
 

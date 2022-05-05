@@ -45,8 +45,8 @@ Built a shell interpreter which is based on the bash and csh shells. Shell has t
 Technologies Used: C/C++
 have 2-3 other project that would be good to put for this course
 
-### Web Development Course - (Class Projects - Individual) Fall 2021
+<!-- ### Web Development Course - (Class Projects - Individual) Fall 2021
 
-### Operating Systems - (Class Projects - Individual) Fall 2020
+### Operating Systems - (Class Projects - Individual) Fall 2020 -->
 
 

@@ -25,9 +25,9 @@ Microsoft: Azure Fundamentals (AZ-900), Azure Data Fundamentals (DP-900), Azure 
 Mobile-based application. Build around calendars and deadlines. Allows students to create calendars for courses or groups and then add their own deadlines to the calendar. Provides a solution where end users can work together to set deadlines through group voting on deadline. UI is based around calendars so users can easily learn how much time they have to complete their goals. Displays statistics for difficulty, completion time, and average completion time for users to better grasp how much time to devote to a certain deadline.
 Technologies Used: MERN Stack - MongoDB, ExpressJS, React Native, NodeJS
 
-<div class="row video">
+<!-- <div class="row video">
    <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-</div>
+</div> -->
 
 ### Statsketball - (Class Project - 2 Person Team)	Fall 2020
 

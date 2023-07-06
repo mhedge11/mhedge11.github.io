@@ -43,9 +43,11 @@ Technologies Used: ReactJS, NodeJS, ExpressJS, Firebase, Google Books API
 Shell Project:
 Built a shell interpreter which is based on the bash and csh shells. Shell has the ability to parse and execute commands. Implemented common tools such as ctrl-c to stop a command and zombie elimination. Created subshells allowing the user to implement a complex command using shell output as the input to another command. Implemented additional tools including wildcarding and command line editor mode
 Technologies Used: C/C++
-have 2-3 other project that would be good to put for this course
 
-<!-- ### Web Development Course - (Class Projects - Individual) Fall 2021
+<!-- 
+### have 2-3 other project that would be good to put for this course
+
+### Web Development Course - (Class Projects - Individual) Fall 2021
 
 ### Operating Systems - (Class Projects - Individual) Fall 2020 -->
 
